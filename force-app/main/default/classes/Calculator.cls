@@ -5,4 +5,7 @@ return x;
     public calculator2(integer y){
         return y;
     }
+    public calculator3(Integer z){
+        return z;
+    }
 }
